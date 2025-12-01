@@ -1,0 +1,30 @@
+# Hikaru Utada、Skrillex – Face My Fears (Japanese Version)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.96] ねえ どれくらい
+[00:17.86] ねえ 笑えばいい?
+[00:23.76] 今伝えたいことよそに
+[00:28.76] 
+[00:35.12] Let me face, let me face, let me face my fears
+[00:41.05] Oh, let me face, let me face, let me face my fears
+[00:47.04] 私の地図に載っていない
+[00:52.92] 道に立ちたい
+[00:55.92] 
+[01:23.64] ねえ 生まれつき
+[01:29.50] ねえ 臆病な人なんていない
+[01:36.91] 初めてのように歩きたい
+[01:42.41] 
+[01:47.22] Let me face, let me face, let me face my fears
+[01:53.03] Oh, let me face, let me face, let me face my fears
+[01:59.13] 私の地図に載っていない
+[02:05.19] 海は 遠くない
+[02:08.69] 
+[02:29.68] 海は 遠くない
+[02:33.18] 
+[02:59.77] Let me face, let me face, let me face my fears
+[03:05.25] Oh, let me face, let me face, let me face my fears
+[03:11.30] 私の知らない私に
+[03:17.23] 早く会いたい
+```
